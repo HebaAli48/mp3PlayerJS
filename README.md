@@ -40,3 +40,4 @@ The project consists of the following files and directories:
 - JavaScript
 
 ## images of Task
+![mp3 player 1](https://github.com/HebaAli48/mp3PlayerJS/assets/131808003/8343460b-50e9-4f5f-9332-713c39b3d661)
