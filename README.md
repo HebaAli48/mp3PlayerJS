@@ -11,8 +11,7 @@ Choose from a selection of audio tracks to play.
 
 ## Getting Started
 
-- Clone this repository to your local machine using:
-.  git clone https://github.com/HebaAli48/mp3PlayerJS.git
+- Clone this repository to your local machine using: git clone https://github.com/HebaAli48/mp3PlayerJS.git
 - Open the Project: Navigate to the project directory and open the mp3Player.html file in your preferred web browser.
 
 ## Usage
